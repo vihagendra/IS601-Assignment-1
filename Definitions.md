@@ -11,3 +11,6 @@
 * **Branch:**
     *A branch represents an independent line of development.The most recent commit on a branch is referred to as the tip of that branch. The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch.It is like a pointer to a commit.*
   
+* **Commit:**
+    *It stores the current contents of the index in a new commit along with a log message from the user describing the changes*
+  
