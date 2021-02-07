@@ -37,4 +37,9 @@ A Docker container that contains one of your applications also includes the rele
 * Scalability:
 You can quickly create new containers if demand for your applications requires them. When using multiple containers you can take advantage of a range of container management options. See the Docker documentation for more information on these options.
   
+## Automated Testing & Continuous Integration
+* **Automated testing** is the application of software tools to automate a human driven manual process of reviewing and validating a software product. Most modern software projects now include automated testing from inception. To fully appreciate the value of automated testing, however, it helps to understand what life was like  before it was widely adopted.
+* **Continuous Integration** Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
+
+
 
