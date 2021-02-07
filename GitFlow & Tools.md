@@ -49,5 +49,12 @@ You can quickly create new containers if demand for your applications requires t
 
 * Agile teams iterate faster to deliver software and customer satisfaction at higher rates, and these pressures can jeopardize quality. Global competition has created low tolerance for defects while increasing pressure on agile teams for faster iterations of software delivery. What's the industry solution to alleviate this pressure? **DevOps.**
 
+## Benefits of an Automated Continuous Development Process
+There are five aspects of a continuous development process you’ll benefit from by transitioning to the CI/CD pipeline:
 
+* Faster Release Cycles: Speeding up the build and deploy cycle will allow you and your team to get new features into production quicker, meaning you can get your product into the hands of your consumers faster.
+* Reduced Risk: The ultimate goal of a continuous delivery process is to make each release a less-dramatic and painless experience for both the QA teams and customers. By releasing new updates or features continuously, you reduce the risk of bugs ending up in production and can resolve any found deficiencies faster.
+* Lower Costs: Adopting a continuous development model will lower your costs by eliminating many of the fixed costs associated with building and testing changes to the application. For example, automated environment provisioning will reduce the costs associated with maintaining your own test infrastructure. Parallel testing will cut down on the number of machines you need to run your tests on. By continuously committing your code, you’ll spend less time (and therefore money) on fixing bugs.
+* Higher Quality Products: A major fear of implementing the CI/CD pipeline is foregoing quality for speed, but this isn’t the case. Continuous integration enables stronger collaboration between developers, meaning bugs are found and fixed faster earlier in the development process. Running automated regression and parallel tests will improve test coverage, ensuring your application is bug-free and works across a wider range of environments. Continuously delivering smaller updates to your software will make most changes (and bugs) undetectable to the end user, resulting in happier customers.
+* Better Business Advantage: Moving to a continuous development model gives your team the flexibility to make alterations to your software on-the-go to meet new market trends and user needs. You’ll be able to meet rapidly changing demands and will turn your release process into a competitive advantage.
 
