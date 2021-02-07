@@ -17,3 +17,6 @@
 * **Merge:**
     *To bring the contents of another branch into the current branch. In the case where the merged-in branch is from a different repository, this is done by first fetching the remote branch and then merging the result into the current branch. In simple words, it is joining two or more commit histories.*
   
+* **Checkout:**
+    *Checkout is the act of switching between different versions of a target entity. The git checkout command operates upon three distinct entities: files, commits, and branches.*
+  
