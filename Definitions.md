@@ -26,3 +26,8 @@
 * **Pull:**
     *The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Once the content is downloaded, git pull will enter a merge workflow. A new merge commit will be-created and HEAD updated to point at the new commit.*
   
+* **Git Remote:**
+    *Git remote is a pointer that refers to another copy of the repository that is usually hosted on a remote server. With git remote, we can add/remove/show.*
+  1. Git Add: The git remote add command will create a new connection record to a remote repository. After adding a remote, you'll be able to use as a convenient shortcut for in other Git commands.
+    2. Git Remove: Git remote is a pointer that refers to another copy of the repository that is usually hosted on a remote server.
+    3. git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included in the tag.
