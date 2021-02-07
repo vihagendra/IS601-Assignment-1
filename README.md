@@ -5,4 +5,5 @@
 2. Harshad Jadhav
 
 ## Index
-1. Definitions
+1. [Definitions](Definitions.md)
+2. [GitFlow & Tools](GitFlow & Tools.md)
