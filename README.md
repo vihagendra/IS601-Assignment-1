@@ -1,4 +1,5 @@
 # IS601-Assignment-1
+[Changelog](Changelog.md)
 
 ## Group Members
 1. Vihagendra Kalakuntla 
