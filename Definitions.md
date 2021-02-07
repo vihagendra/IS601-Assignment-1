@@ -12,6 +12,9 @@
 * **Branch:**
     *A branch represents an independent line of development.The most recent commit on a branch is referred to as the tip of that branch. The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch.It is like a pointer to a commit.*
   
+* **Head:**
+    *Git’s way of referring to the current snapshot. Internally, the git checkout command simply updates the HEAD to point to either the specified branch or commit. When it points to a branch, Git doesn't complain, but when you check out a commit, it switches into a “detached HEAD” state.*
+  
 * **Commit:**
     *It stores the current contents of the index in a new commit along with a log message from the user describing the changes*
   
