@@ -2,6 +2,9 @@
 * **Repository:**
     *It's a collection of commits, branches and tags to identify commits. A repository contains all of your project files and each file's revision history.*
     ![Repository](Repository.png)
+  
+* **Version Control:**
+    *A system that records changes to a file or set of files over time so that you can recall specific versions later.*
 
 * **Clone:** 
     *Cloning is creating a local copy of the repository in your computer. We can make changes locally and push it to the main repository.*
