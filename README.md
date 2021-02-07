@@ -7,4 +7,4 @@
 ## Index
 
 1. [Definitions](Definitions.md)
-2. [GitFlow & Tools](GitFlow_&_Tools.md)
+2. [GitFlow & Tools](https://github.com/vihagendra/IS601-Assignment-1/blob/master/GitFlow%20%26%20Tools.md)
