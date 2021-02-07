@@ -20,3 +20,5 @@
 * **Checkout:**
     *Checkout is the act of switching between different versions of a target entity. The git checkout command operates upon three distinct entities: files, commits, and branches.*
   
+* **Push:**
+    *The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repository. Remote branches are configured using the git remote command. Pushing has the potential to overwrite changes,* **caution should be taken when pushing**.
