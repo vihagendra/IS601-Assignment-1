@@ -7,3 +7,7 @@
   
 * **Fork:**
     *Instead of using a single server-side repository to act as the “central” codebase, forking gives every developer a server-side repository. This means that each contributor has not one, but two Git repositories: a private local one and a public server-side one.*
+  
+* **Branch:**
+    *A branch represents an independent line of development.The most recent commit on a branch is referred to as the tip of that branch. The tip of the branch is referenced by a branch head, which moves forward as additional development is done on the branch.It is like a pointer to a commit.*
+  
