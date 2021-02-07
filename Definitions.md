@@ -31,3 +31,6 @@
   1. Git Add: The git remote add command will create a new connection record to a remote repository. After adding a remote, you'll be able to use as a convenient shortcut for in other Git commands.
     2. Git Remove: Git remote is a pointer that refers to another copy of the repository that is usually hosted on a remote server.
     3. git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included in the tag.
+    
+* **Status:**
+    *The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.*
