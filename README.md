@@ -7,4 +7,4 @@
 ## Index
 
 1. [Definitions](Definitions.md)
-2. [GitFlow & Tools](GitFlow_&_Tools.md)
+2. [GitFlow & Tools](GitFlow & Tools.md)
