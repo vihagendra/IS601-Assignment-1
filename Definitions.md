@@ -44,3 +44,5 @@
   
 * **Master Branch:**
     *The default branch name in git is Master. Everytime we make a commit, the master branch pointer moves forward automatically.* **We should be very careful while using master branch.**
+
+[Changelog](Changelog.md)
