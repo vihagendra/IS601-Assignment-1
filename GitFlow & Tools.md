@@ -1,4 +1,4 @@
-##What is GitFlow?
+## What is GitFlow?
 
 *Gitflow Workflow is a Git workflow that helps with continuous software development and implementing DevOps practices. It was first published and made popular by Vincent Driessen at nvie. The Gitflow Workflow defines a strict branching model designed around the project release. This provides a robust framework for managing larger projects.*
 
