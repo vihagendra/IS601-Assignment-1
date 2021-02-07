@@ -14,3 +14,9 @@
 7. Once the hotflix is complete it is merged to both develop and master.
 
 [Click Here to watch tutorial](https://www.youtube.com/watch?v=gLWSJXBbJuE&t=441s)
+
+## Docker
+*Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. Because all of the containers share the services of a single operating system kernel, they use fewer resources than virtual machines.*
+
+![Containers VS VM's](https://www.microcontrollertips.com/wp-content/uploads/2017/01/VM-Diagram-opener.jpg)
+
