@@ -14,3 +14,6 @@
 * **Commit:**
     *It stores the current contents of the index in a new commit along with a log message from the user describing the changes*
   
+* **Merge:**
+    *To bring the contents of another branch into the current branch. In the case where the merged-in branch is from a different repository, this is done by first fetching the remote branch and then merging the result into the current branch. In simple words, it is joining two or more commit histories.*
+  
