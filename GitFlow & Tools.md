@@ -20,3 +20,21 @@
 
 ![Containers VS VM's](https://www.microcontrollertips.com/wp-content/uploads/2017/01/VM-Diagram-opener.jpg)
 
+### Advantages of Docker 
+
+* Portability:
+Once you have tested your containerized application you can deploy it to any other system where Docker is running and you can be sure that your application will perform exactly as it did when you tested it.
+
+* Performance:
+Although virtual machines are an alternative to containers, the fact that containers do not contain an operating system (whereas virtual machines do) means that containers have much smaller footprints than virtual machines, are faster to create, and quicker to start.
+
+* Agility:
+The portability and performance benefits offered by containers can help you make your development process more agile and responsive. 
+
+* Isolation:
+A Docker container that contains one of your applications also includes the relevant versions of any supporting software that your application requires. If other Docker containers contain applications that require different versions of the same supporting software, that isn't a problem because the different Docker containers are totally independent of one other.
+
+* Scalability:
+You can quickly create new containers if demand for your applications requires them. When using multiple containers you can take advantage of a range of container management options. See the Docker documentation for more information on these options.
+  
+
