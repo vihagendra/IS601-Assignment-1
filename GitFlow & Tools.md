@@ -41,5 +41,13 @@ You can quickly create new containers if demand for your applications requires t
 * **Automated testing** is the application of software tools to automate a human driven manual process of reviewing and validating a software product. Most modern software projects now include automated testing from inception. To fully appreciate the value of automated testing, however, it helps to understand what life was like  before it was widely adopted.
 * **Continuous Integration** Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
 
+## Why Automate Testing in CI 
+
+* In recent years CI has become a best practice for software development and is guided by a set of key principles. Among them are revision control, build automation and automated testing.
+
+* **"Continuous Integration does not get rid of bugs, but it does make them dramatically easier to find and remove"** 
+
+* Agile teams iterate faster to deliver software and customer satisfaction at higher rates, and these pressures can jeopardize quality. Global competition has created low tolerance for defects while increasing pressure on agile teams for faster iterations of software delivery. What's the industry solution to alleviate this pressure? **DevOps.**
+
 
 
